@@ -41,7 +41,7 @@ MOV [SI+3],CL
 INT 03
 ```
 ## Output  
- ![add](./img/add.png)
+ ![add](./add.png)
 
 ## Subtraction of 8 bit numbers ALP 
 ```
@@ -57,7 +57,7 @@ MOV [SI+3],CL
 INT 03
 ```
 ## Output  
-![sub](./img/sub.png)
+![sub](./sub.png)
 
 ## Multiplication of 8 bit numbers ALP
 ```
@@ -70,7 +70,7 @@ MOV [SI+3],AH
 INT 03
 ```
 ## Output  
-![mul](./img/mul.png)
+![mul](./mul.png)
 ## Division of 8 bit numbers ALP
 ```
 MOV SI,1200H
@@ -82,7 +82,7 @@ MOV [SI+3],AH
 INT 03
 ```
 ## Output  
-![div](./img/div.png)
+![div](./div.png)
 
 ## Result :
 Thus, a program is executed on ALP for the fundamental arithmetic and logical operations.
